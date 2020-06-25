@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio 1 Cáculo IMC</title>
+
+</head>
+<body>
+    <h3>Cálculo IMC</h3>
+    <p>
+        Este exercício tem a finalidade de atender ao desafio proposto </br>
+        no módulo 2, do curso LaunchBase, RocketSeat: Montar uma calculadora </br>
+        que meça o índice de massa corporal IMC e apresente resultados ao usuário.
+        <h4>Metodologia utilizada: Interação com o usuário</h4>
+        <h4>Indice oficial obtido no site do Ministério da Saúde </br>
+        http://www.saude.gov.br/component/content/article/804-imc/40509-imc-em-adultos</h4>
+    </p>
+    <script>
+        var nome = prompt("Qual seu nome: ");
+        var altura = prompt("Qual sua altura: ");
+        var peso = prompt("Qual seu peso atual: ");
+        imc = peso/(altura * altura);
+        
+        //O cálculo do IMC é o resultado obtido do cálculo do peso dividido pela altura ao quadrado.
+        //Para obter o resultado correto utilizei os índices da Organização Mundial de Saúde.
+                
+        if(imc< 18.5){
+            document.write(nome + "  Você está abaixo do peso ");
+        }else if (imc > 18.5 && imc <25){
+            document.write(nome + " Seu peso está normal ");
+        }else if (imc > 25 && imc <30){
+            document.write( nome + "  Você está acima do peso ");
+        }else if (imc>30){
+            document.write(nome + "Você está com obesidade mórbida")
+        }
+
+    </script>
+</body>
+</html>
