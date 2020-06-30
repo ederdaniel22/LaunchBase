@@ -21,3 +21,7 @@ inclusão no GitHub.
 Continuando no módulo 2, aprendemos funções, arrays, metodos e parametros.
 Criamos nossa primeira função de cálculo de média de alunos.
 
+Dia 29 de junho 2020, demorei um pouco porque estava resolvendo o desafio
+Ecoleta da NextLevelWeek.
+Hoje aprendemos como utilizar laços de repetição com o comando for e variáveis
+let e const, para concluir alteramos o código de português para Inglês
