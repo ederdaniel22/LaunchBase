@@ -27,4 +27,9 @@ Hoje aprendemos como utilizar laços de repetição com o comando for e variáve
 let e const, para concluir alteramos o código de português para Inglês
 
 01 de julho, começando HTML, CSS, construindo a página e fazendo a estilização
-incluindo fontes e imagens para montar o portifólio.
+incluindo fontes e imagens para montar o portifólio, começamos a separar cada 
+parte do projeto em blocos para facilitar a configuração e possível reaproveitamento
+em outros projetos.
+
+02 de julho de 2020, hoje estamos concluindo o segundo módulo, configurando nosso 
+projeto com JavaScript 
