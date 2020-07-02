@@ -25,3 +25,6 @@ Dia 29 de junho 2020, demorei um pouco porque estava resolvendo o desafio
 Ecoleta da NextLevelWeek.
 Hoje aprendemos como utilizar laços de repetição com o comando for e variáveis
 let e const, para concluir alteramos o código de português para Inglês
+
+01 de julho, começando HTML, CSS, construindo a página e fazendo a estilização
+incluindo fontes e imagens para montar o portifólio.
