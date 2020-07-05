@@ -1,17 +1,19 @@
 {
-    "name": "modulo3",
-    "version": "1.0.0",
-    "main": "server.js",
-    "scripts": {
-        "start": "nodemon server.js"
-    },
-    "author": "Eder Daniel Domingues",
-    "license": "ISC",
-    "dependencies": {
-        "express": "^4.17.1",
-        "nunjucks": "^3.2.1"
-    },
-    "devDependencies": {
-        "nodemon": "^2.0.4"
-    }
+  "name": "modulo3",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Eder Daniel Domingues",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "description": "Esola de programação Rocketseat\r Bootcamp, preparação front e back end com HTML5 CSS3 e JavaScript\r Iniciando meus estudos em 22 de junho de 2020.",
+  "keywords": []
 }
