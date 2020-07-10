@@ -8,7 +8,7 @@ Aprendi a enviar os projetos para o Github, da forma correta.
 Hoje, dia 23 de junho de 2020, estamos dando continuidade no bootcamp,
 aprendendo os primeiros passos em JavaScript.
 
-Aprendemos a criar constantes e variáveis, e a efetuar uma base de cálculo de 
+Aprendemos a criar constantes e variáveis, e a efetuar uma base de cálculo de
 média entre alunos.
 
 aprendemos a montar uma estrutura condicional com IF e ELSE.
@@ -27,9 +27,11 @@ Hoje aprendemos como utilizar laços de repetição com o comando for e variáve
 let e const, para concluir alteramos o código de português para Inglês
 
 01 de julho, começando HTML, CSS, construindo a página e fazendo a estilização
-incluindo fontes e imagens para montar o portifólio, começamos a separar cada 
+incluindo fontes e imagens para montar o portifólio, começamos a separar cada
 parte do projeto em blocos para facilitar a configuração e possível reaproveitamento
 em outros projetos.
 
-02 de julho de 2020, hoje estamos concluindo o segundo módulo, configurando nosso 
-projeto com JavaScript 
+02 de julho de 2020, hoje estamos concluindo o segundo módulo, configurando nosso
+projeto com JavaScript
+
+09 de julho conclusão domódulo, com acertos de imagens CSS e testes de rotas.
