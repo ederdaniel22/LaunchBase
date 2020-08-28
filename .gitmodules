@@ -1,0 +1,3 @@
+[submodule "LaunchBase"]
+	path = LaunchBase
+	url = https://github.com/ederdaniel22/LaunchBase.git
